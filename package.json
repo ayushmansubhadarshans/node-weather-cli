@@ -1,0 +1,13 @@
+{
+  "name": "node-weather-cli",
+  "version": "1.0.0",
+  "description": "A CLI application that fetches and displays current weather for a city",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js London"
+  },
+  "keywords": ["weather", "cli", "node"],
+  "author": "",
+  "license": "MIT"
+}
